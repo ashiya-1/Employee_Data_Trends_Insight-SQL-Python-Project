@@ -1,4 +1,4 @@
-# EMPLOYEE DATA TRENDS AND INSIGHT_SQL_Python-Project
+# Employee Data Trends Insight | SQL+ Python Project 
 
 Overview:
 
